@@ -35,6 +35,12 @@ Delayed Risk Assessment: Without automated data ingestion, identifying emerging 
  # Dashboard Architecture & Key Features
  ![COVID_19 global daily data dashboard](covid_19_dashboard.png
 )
+# Key Insights & Analytical Findings
+Peak Pandemic Activity: Peak global cases and mortality were recorded between 2021 and 2022, with a steep downward trajectory beginning in 2023 as global vaccination and immunity levels stabilized.
+
+Regional Concentration: The Americas (AMR) and Europe (EUR) accounted for the vast majority of cumulative reported cases and deaths globally.
+
+Long-Tail Stabilization: New annual case reporting dropped significantly by 2024–2026, transitioning from an acute pandemic phase to baseline endemic tracking.
  
 
 
