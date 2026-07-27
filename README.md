@@ -33,7 +33,7 @@ Manual Data Aggregation: Healthcare analysts frequently spend hours manually log
 Delayed Risk Assessment: Without automated data ingestion, identifying emerging geographical hot spots or cross-border transmission patterns in real time becomes difficult.
 
  # Dashboard Architecture & Key Features
- ![Hospital Data Analysis Dashboard](powerbi_screenshot.png
+ ![COVID_19 global daily data dashboard](covid_19_dashboard.png
 )
  
 
